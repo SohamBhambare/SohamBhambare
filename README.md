@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Soham Bhambare</h1>
-<h3 align="center">Highly motivated Computer Science freshman student studying at Eastern Michigan University</h3>
+<h1 align="left">💫About me</h1>
+<h3 align="left">Highly motivated Computer Science freshman student studying at Eastern Michigan University</h3>
 
 <img align = “right” alt = “coding” width = “400” src = "https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
