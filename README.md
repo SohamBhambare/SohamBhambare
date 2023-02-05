@@ -3,8 +3,6 @@
 
 <img align = “right” alt = “coding” width = “400” src = "https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohambhambare&label=Profile%20views&color=0e75b6&style=flat" alt="sohambhambare" /> </p>
-
 - 🌱 Currently learning **Data Structures, Internet-Based Computing**
 
 - 📫 How to reach me **spbhambare@gmail.com**
