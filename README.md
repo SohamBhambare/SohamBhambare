@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **spbhambare@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1QTA4GqvoAT13iqdKQSOaNyVA3w6BJRdk/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1fKi6BIyfNCi_rZ2ArqJNbC8-F4nu99Px/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
